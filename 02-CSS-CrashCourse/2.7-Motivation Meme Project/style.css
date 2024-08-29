@@ -1,0 +1,30 @@
+html {
+  background-color: black;
+}
+
+.Contentarea {
+  width: 50%;
+  margin-top: 80px;
+  margin-left: 25%;
+  text-align: center;
+}
+
+.Memeimg {
+  width: 100%;
+  border: solid white;
+  border-width: 5px;
+}
+
+.Memeheadline {
+  font-size: 60px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.Memetext {
+  font-size: 30px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
